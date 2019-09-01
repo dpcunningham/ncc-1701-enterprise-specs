@@ -12,6 +12,8 @@ Populates associated project:  [`ncc-1701-enterprise-timeline`](https://github.c
 
 ### Purpose
 
+This fictional project is a benchmark for a __"lean"__ workflow process tied as closely as possible to a developer's day-to-day toolset and workflow.
+
 --- 
 
 ### Resources
