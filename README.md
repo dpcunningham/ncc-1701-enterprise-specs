@@ -29,7 +29,7 @@ Details of this argument are provided in the associated [project wiki](https://g
 
 1. _This_ **spec repository**: collects the various features (as issues and epics);
 2. An associated [**timeline project board**](https://github.com/dpcunningham/ncc-1701-enterprise-specs/projects): batches the features into staged releases;
-3. A partnered [**code repository**](https://github.com/dpcunningham/ncc-1701-enterprise-code): periodically accepts batches of features (as issues & epics) based on the timeline project board;
+3. A partnered "downstream" [**code repository**](https://github.com/dpcunningham/ncc-1701-enterprise-code): periodically accepts batches of features (as issues & epics) based on the timeline project board;
 4. ...with its own associated [**build project board**](https://github.com/dpcunningham/ncc-1701-enterprise-code/projects): assigns specific issues to available crew. 
 
 
