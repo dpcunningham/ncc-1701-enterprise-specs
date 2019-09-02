@@ -1,7 +1,7 @@
 # ncc-1701-enterprise-specs
 NCC-1701: Specifications (via Repository Issues and Epics) for the Construction of the [USS Enterprise](https://www.startrek.com/database_article/enterprise).
 
-Populates associated project:  [`ncc-1701-enterprise-timeline`](https://github.com/dpcunningham/ncc-1701-enterprise-specs/projects)
+Populates associated GitHub project:  [`ncc-1701-enterprise-timeline`](https://github.com/dpcunningham/ncc-1701-enterprise-specs/projects).
 
 ...which is upstream from:
 - [`ncc-1701-enterprise-build`](https://github.com/dpcunningham/ncc-1701-enterprise-code/projects): a "swim lane" project depicting task assignments across available crew, using cards (containing issues & epics) from the code repository on the line below;
