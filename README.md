@@ -27,10 +27,10 @@ Details of this argument are provided in the associated [project wiki](https://g
 
 ### Organization -- Four basic components:
 
-1. This **"spec" repository**: collects the various features (as issues and epics);
-2. An associated **"timeline" project board**: batches the features into staged releases;
-3. A partnered **"code" repository**: accepts batches of features (as issues & epics) based on the timeline project board;
-4. ...with its own associated **"build" project board**: assigns specific issues to available crew. 
+1. This **spec repository**: collects the various features (as issues and epics);
+2. An associated **timeline project board**: batches the features into staged releases;
+3. A partnered **code repository**: accepts batches of features (as issues & epics) based on the timeline project board;
+4. ...with its own associated **build project board**: assigns specific issues to available crew. 
 
 
 Created in this order (GitHub-specific workflow):
