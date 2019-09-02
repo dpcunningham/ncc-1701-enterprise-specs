@@ -22,6 +22,26 @@ This fictional project is a benchmark for a _"leanest possible"_ workflow proces
 
 Details of this argument are provided in the associated [project wiki](https://github.com/dpcunningham/ncc-1701-enterprise-specs/wiki/A-Lean-Project-Management-Workflow-Based-Entirely-Within-GitHub) (bulletin board), which demonstrates another valuable tool (i.e. organized knowledge collection) for project management in this lean workflow based entirely within GitHub.
 
+
+---
+
+### Organization
+
+- Two repositories working in a "baton-race" fashion.
+- Each repository with its own associated project board.
+
+
+
+- Created in this order (GitHub-specific workflow):
+  1. Create the spec repository
+  2. Within the spec repository, create...
+    1. The timeline project
+    2. Tie it back to the spec repository
+  3. Create the code repository
+  4. Within the code repository, create...
+    1. The build project
+    2. Tie it back to the code repository
+
 --- 
 
 ### Resources
