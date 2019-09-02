@@ -29,10 +29,10 @@ Details of this argument are provided in the associated [project wiki](https://g
 
 Four basic components:
 
-- A "spec" repository: collects the various features (as issues and epics);
-- A "timeline" project board: batches the features into staged releases;
-- A "code" repository: accepts batches of features (as issues & epics) based on the timeline project board;
-- A "build" project board: assigns issues to available crew. 
+- This "spec" repository: collects the various features (as issues and epics);
+- An associated "timeline" project board: batches the features into staged releases;
+- A paired "code" repository: accepts batches of features (as issues & epics) based on the timeline project board;
+- With its own associated "build" project board: assigns specific issues to available crew. 
 
 
 Created in this order (GitHub-specific workflow):
