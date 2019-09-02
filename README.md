@@ -5,7 +5,7 @@ Populates associated GitHub project:  [`ncc-1701-enterprise-timeline`](https://g
 
 ...which is upstream from:
 - [`ncc-1701-enterprise-build`](https://github.com/dpcunningham/ncc-1701-enterprise-code/projects): a "swim lane" GitHub project depicting task assignments across available crew, using cards (containing issues & epics) from the code repository on the line below;
-- [`ncc-1701-enterprise-code`](https://github.com/dpcunningham/ncc-1701-enterprise-code): an associated GitHub repository which holds issues and epics transferred from **this** spec repository -- according to the "build" timeline project above.
+- [`ncc-1701-enterprise-code`](https://github.com/dpcunningham/ncc-1701-enterprise-code): an associated GitHub repository which holds issues and epics transferred from **this** spec repository -- according to the "build" timeline project on the line above.
 
 
 ---
