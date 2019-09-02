@@ -29,21 +29,21 @@ Details of this argument are provided in the associated [project wiki](https://g
 
 Four basic components:
 
-- This "spec" repository: collects the various features (as issues and epics);
-- An associated "timeline" project board: batches the features into staged releases;
-- A paired "code" repository: accepts batches of features (as issues & epics) based on the timeline project board;
-- With its own associated "build" project board: assigns specific issues to available crew. 
+- This **"spec" repository**: collects the various features (as issues and epics);
+- An associated **"timeline" project board**: batches the features into staged releases;
+- A partnered **"code" repository**: accepts batches of features (as issues & epics) based on the timeline project board;
+- With its own associated **"build" project board**: assigns specific issues to available crew. 
 
 
 Created in this order (GitHub-specific workflow):
   1. Create the spec repository
   2. Within the spec repository, create...
-    1. The timeline project
-    2. Tie it back to the spec repository
+     1. The timeline project
+     2. Tie it back to the spec repository
   3. Create the code repository
   4. Within the code repository, create...
-    1. The build project
-    2. Tie it back to the code repository
+     1. The build project
+     2. Tie it back to the code repository
 
 --- 
 
