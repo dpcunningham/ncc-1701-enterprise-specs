@@ -36,12 +36,12 @@ Details of this argument are provided in the associated [project wiki](https://g
 Created in this order (GitHub-specific workflow):
   1. Create the spec repository
   2. Within the spec repository, create...
-     1. The timeline project
-     2. Tie it back to the spec repository
+    1. The timeline project
+    2. Tie it back to the spec repository
   3. Create the code repository
   4. Within the code repository, create...
-     1. The build project
-     2. Tie it back to the code repository
+    1. The build project
+    2. Tie it back to the code repository
 
 --- 
 
