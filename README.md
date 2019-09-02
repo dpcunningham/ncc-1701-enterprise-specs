@@ -16,7 +16,7 @@ This fictional project is a benchmark for a _"leanest possible"_ workflow proces
 
 The premise is that top-notch development talent is a very constrained resource.  Typical "top down" project management tools inflict a heavy toll on developer focus & energy due to forced mental context switching.  Organizations can avoid this unnecessary friction by adopting management practices which seek to leverage the existing toolsets already in use by experienced developers.  Flipping the typical project management process on its head provides welcome relief to busy developement teams, an can yield additional unanticipated benefits. 
 
-Details of this argument are provided in the associated [project wiki](https://github.com/dpcunningham/ncc-1701-enterprise-specs/wiki/A-Lean-Project-Management-Workflow-Based-Entirely-Within-GitHub) (bulletin board), which demonstrates another valuable tool (i.e. organized knowledge collection) for project management in this lean workflow.
+Details of this argument are provided in the associated [project wiki](https://github.com/dpcunningham/ncc-1701-enterprise-specs/wiki/A-Lean-Project-Management-Workflow-Based-Entirely-Within-GitHub) (bulletin board), which demonstrates another valuable tool (i.e. organized knowledge collection) for project management in this lean workflow based entirely within GitHub.
 
 --- 
 
