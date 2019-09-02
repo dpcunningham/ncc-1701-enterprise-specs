@@ -26,7 +26,7 @@ Details of this argument are provided in the associated [project wiki](https://g
 
 ### Resources
 
-- The "md" suffix on this `README.md` file indicates it's a ["markdown"](https://en.wikipedia.org/wiki/Markdown) file. Here's a useful "beginner's guide" to the [specific markdown dialect](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) (i.e. the "flavor" of markdown) used on GitHb.
+- The "md" suffix on this `README.md` file indicates it's a ["markdown"](https://en.wikipedia.org/wiki/Markdown) file. Here is a useful "beginner's guide" to the [specific markdown dialect](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) (i.e. the "flavor" of markdown) used on GitHb.
 - Here is a collection of useful GitHub guides for the various processes in this lean workflow:
   - [About Project Boards...](https://help.github.com/en/articles/about-project-boards)
   - [Creating a Project Board...](https://help.github.com/en/articles/creating-a-project-board)
