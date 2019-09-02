@@ -20,9 +20,9 @@ This fictional project is a benchmark for a _"lean"_ workflow process tied as cl
 
 - The "md" suffix on this `README.md` file indicates it's a ["markdown"](https://en.wikipedia.org/wiki/Markdown) file. Here's a useful "beginner's guide" to the [specific markdown dialect](https://help.github.com/en/articles/basic-writing-and-formatting-syntax) (i.e. the "flavor" of markdown) used on GitHb.
 - Here is a collection of useful GitHub guides for the various processes in this lean workflow:
-  - [About Project Boards](https://help.github.com/en/articles/about-project-boards)
-  - [Creating a Project Board](https://help.github.com/en/articles/creating-a-project-board)
-  - [Adding notes to a project board - GitHub Help](https://help.github.com/en/articles/adding-notes-to-a-project-board#converting-a-note-to-an-issue)
-  - [Converting a note to an issue](https://help.github.com/en/articles/adding-notes-to-a-project-board#converting-a-note-to-an-issue)
-  - [Transferring an issue to another repository](https://help.github.com/en/articles/transferring-an-issue-to-another-repository)
+  - [About Project Boards...](https://help.github.com/en/articles/about-project-boards)
+  - [Creating a Project Board...](https://help.github.com/en/articles/creating-a-project-board)
+  - [Adding notes to a project board...](https://help.github.com/en/articles/adding-notes-to-a-project-board#converting-a-note-to-an-issue)
+  - [Converting a note to an issue...](https://help.github.com/en/articles/adding-notes-to-a-project-board#converting-a-note-to-an-issue)
+  - [Transferring an issue to another repository...](https://help.github.com/en/articles/transferring-an-issue-to-another-repository)
 
