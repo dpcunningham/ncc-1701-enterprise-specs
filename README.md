@@ -27,12 +27,15 @@ Details of this argument are provided in the associated [project wiki](https://g
 
 ### Organization
 
-- Two repositories working in a "baton-race" fashion.
-- Each repository with its own associated project board.
+Four basic components:
+
+- A "spec" repository: collects the various features (as issues and epics);
+- A "timeline" project board: batches the features into staged releases;
+- A "code" repository: accepts batches of features (as issues & epics) based on the timeline project board;
+- A "build" project board: assigns issues to available crew. 
 
 
-
-- Created in this order (GitHub-specific workflow):
+Created in this order (GitHub-specific workflow):
   1. Create the spec repository
   2. Within the spec repository, create...
     1. The timeline project
